@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
+//Comment about comments  
 namespace L2_Algorithms_DataStructures
 {
   class Program
